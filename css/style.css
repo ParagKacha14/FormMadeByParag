@@ -1,0 +1,6 @@
+.moto{
+    background-image: radial-gradient(green, red, yellow);
+    width: fit-content;
+    font-size: 90px;
+    color: pink;
+}

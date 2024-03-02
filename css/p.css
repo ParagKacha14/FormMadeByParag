@@ -1,0 +1,16 @@
+.p
+{
+    background: #eb3232dc;
+    width: fit-content;
+    height: fit-content;
+}
+#k
+{
+    max-width: min-content;
+    background-color: antiquewhite;
+    text-align: center;
+}
+
+p{
+    color: rgb(255, 149, 20);
+}
